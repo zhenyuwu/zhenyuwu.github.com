@@ -3,5 +3,6 @@ description: 研究方向：工业大数据分析、故障预测与健康管理�
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
+logo:/img/person.jpg
 gems:
   - jekyll-mentions
