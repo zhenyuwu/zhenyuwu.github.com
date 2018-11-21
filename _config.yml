@@ -4,15 +4,6 @@ description: 办公地点：北京邮电大学新科研楼818
 description: 联系方式：shower0512@bupt.edu.cn
 google_analytics: 
 show_downloads: false
-
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
 gems:
   - jekyll-mentions
-
-gem "jekyll-remote-theme"
-
-plugins:
-  - jekyll-remote-theme
-
-plugins:
-  - jekyll-include-cache
