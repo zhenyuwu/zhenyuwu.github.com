@@ -2,7 +2,7 @@ title: 吴振宇@北邮
 description: 吴振宇的简历
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
