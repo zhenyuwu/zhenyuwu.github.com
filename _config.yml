@@ -1,8 +1,18 @@
 title: 吴振宇@北邮
-description: 吴振宇的简历
+description: 研究方向：工业大数据分析、故障预测与健康管理（PHM）、机器学习、深度学习
+description: 办公地点：北京邮电大学新科研楼818
+description: 联系方式：shower0512@bupt.edu.cn
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-minimal
 
+remote_theme: "mmistakes/minimal-mistakes"
 gems:
   - jekyll-mentions
+
+gem "jekyll-remote-theme"
+
+plugins:
+  - jekyll-remote-theme
+
+plugins:
+  - jekyll-include-cache
