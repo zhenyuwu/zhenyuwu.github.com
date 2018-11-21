@@ -2,7 +2,7 @@ title: ZhenyuWu@BUPT
 description: zhenyuwu's personal page
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
