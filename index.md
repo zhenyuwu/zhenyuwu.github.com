@@ -1,5 +1,6 @@
 ## 工作教育经历
-* 2013至今，北京邮电大学信息与通信工程学院，助理教授，硕士生导师
+* 2013至今，北京邮电大学信息与通信工程学院，副教授，硕士生导师
+* 2020-2021，马里兰大学帕克分校访问学者（CALCE中心，IEEE Fellow，Michael Pecht教授团队）
 * 2012-2013，芬兰阿尔托大学，计算机科学系，教育部公派联合培养博士
 * 2008-2013，北京邮电大学信息与通信工程学院，通信与信息系统，硕／博士研究生
 * 2004-2008，北京邮电大学信息工程学院，自动化，本科生
@@ -14,6 +15,7 @@
 ### 获奖情况
 * 《面向新生的工程认知与创新素质培养虚拟仿真实验》，2017教育部虚拟仿真实验示范项目（国家级）（电子信息类全国10个），排名第四
 * 《基于腾讯开放资源的创新创业课程体系建设》，2018教育部新工科产学协同育人优秀项目（国家级）（1万个项目中选20个），排名第二
+* 《新工科工程专业认知与创新素质培养育人团队》，2019年北京高校优秀本科育人团队，排名第二
 * 《面向创客教育的专业导论课建设》，2017北京邮电大学教学成果一等奖，排名第二
 * 北京邮电大学华为奖教金
 
@@ -32,12 +34,14 @@
 * 《基于Web技术的物联网系统及该系统的数据处理方法》ZL201210223599.6，授权
 * 《数据传输方法和WoT系统》ZL201210564609.2，授权
 * 《物联网关及物联平台接纳家居设备的方法和物联网系统》CN201610537101.1，申请
+* 《一种磁盘故障预测方法、系统、装置及存储介质》CN201911174528.X，申请
+* 《面向IT运维的监控数据处理方法、系统、装置及存储介质》201911288842.0，申请
 
 
 
 ### 学术论文
-* Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, Accepted. (2区，IF2.888)
-* Zhenyu Wu; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, Accepted. (2区，IF4.098)
+* Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2019.12. (2区，IF2.888)
+* Zhenyu Wu; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9. (2区，IF4.098)
 * Z. Wu et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7. (2区，IF3.577)
 * Zhenyu Wu; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1 (2区，IF3.577)
 * Wu, Z.; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.  (2区，IF2.677)
@@ -65,3 +69,8 @@
 1. 国家国际科技合作专项，2010DFA12780，中芬基于livinglab的智慧设计创新网络平台研发与应用示范（申请人所在团队牵头），2011/01-2014/09，2585万元，已结题（排名第四），参与;
 2. 国家国际科技合作专项，2010DFB10570，未来移动通信泛在业务与应用研究（子课题），2010/01-2014/10，40万元，已结题（排名第二），参与。
 3. 国家科技重大专项项目，2011ZX03005-004-02，泛在网络下多终端协同的网络控制平台及关键技术，2011/01-2013/12，967万元，已结题，参加；
+
+#### 平台及工具
+1. 火花空间-工程认知与创新素质培养在线自主学习平台：[http://www.oursparkspace.cn]()
+2. 面向工业预测性维护的大数据分析虚拟仿真实验平台：[http://www.phmlearn.com]()
+3. 项目组开源项目：[https://github.com/minelabwot/]()
