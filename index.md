@@ -40,29 +40,37 @@
 
 
 ### 学术论文
+####2019
 * Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2019.12.
 * Zhenyu Wu; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
+* Shuyang Yu; Zhenyu Wu; Xinning Zhu; Michael Pecht, A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions, 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
+####2018
 * Z. Wu et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7.
 * Zhenyu Wu; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1
 * Wu, Z.; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.
+* Zhenyu Wu; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System, 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
+
+####2017
 * Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)
 * Wu, Zhenyu ; Itala, Timo; Tang, Tingan; Zhang, Chunhong; Ji, Yang; Hamalainen, Matti; Liu, Yunjie, A web-based two-layered integration framework for smart devices , EURASIP Journal on Wireless Communications and Networking. 2012
 * 吴振宇; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
-* Shuyang Yu; Zhenyu Wu; Xinning Zhu; Michael Pecht, A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions, 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
-* Zhenyu Wu; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System, 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
 * Hao Luo; Zhenyu Wu; Xinning Zhu, A Cluster-Based Hidden Markov Model for High-level State Discovery from Time Series, 2017 International Conference on Big Data Computing and Communications, 2017.8.10-2017.8.11
 * Yang Guo; Zhenyu Wu; Yang Ji, A Hybrid Deep Representation Learning Model for Time Series Classification and Prediction, 2017 International Conference on Big Data Computing and Communications , 2017.8.10-2017.8.11
-* Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Yang Ji, Towards Semantic Web of Things: From Manual to Semi-automatic Semantic Annotation on Web of Things, The 2nd International Conference on Big Data Computing and Communication, 2016.7.29-2016.7.31
 * Yang, Yunong, Z. Wu, and X. Zhu. "Semi-automatic metadata annotation of Web of Things with knowledge base." IEEE International Conference on Network Infrastructure and Digital Content IEEE, 2017:124-129.
+
+####Earlier
+* Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Yang Ji, Towards Semantic Web of Things: From Manual to Semi-automatic Semantic Annotation on Web of Things, The 2nd International Conference on Big Data Computing and Communication, 2016.7.29-2016.7.31
+* Wu, Zhenyu , et al. A web-based two-layered integration framework for smart devices. EURASIP Journal on Wireless Communications and Networking 2012.1(2012).
 * Zhenyu Wu ; Timo Itälä; Tingan Tang; Chunhong Zhang; Yang Ji; Matti Hämäläinen; Yunjie Liu, Gateway as a service: A cloud computing framework for web of things, 2012 19th International Conference on Telecommunications, ICT 2012, 2012.4.23-2012.4.25
 * Zhenyu Wu ; Chunhong Zhang; Yang Ji; Yunjie Liu, Web of X Service Environment for Ubiquitous Network and Computing, Proceedings of the 2011 International Conference on Internet of Things and 4th International Conference on Cyber, Physical and Social Computing, 2011.10.19-2011.10.22 
 
 ### 科研项目
 #### 在研项目
-1.	工信部专项，新一代信息技术与制造业融合发展公共服务平台建设，2019.8至今，40万，在研，子任务牵头
-2. 国家科技重大专项， 2015ZX03003012，通用M2M设备抽象和语义规范标准化研究（子课题），参与，国家财政，2015/01至今，在研，参与；
-4. 国家科技支撑计划，2012BAH41F00，基于社交网络的电视内容云服务技术集成及应用示范（申请人所在团队牵头），2013/01至今，在研，参与；
-5. 国家科技重大专项，2012ZX03005008，基于Web的无线泛在业务环境体系架构,关键技术研究与演示验证（所在团队牵头），2012/01至今，在研，参与；
+1. 中兴产学研合作项目，面向承载网业务的智能故障诊断关键技术研究，2020.8至今，牵头
+2.	工信部专项，新一代信息技术与制造业融合发展公共服务平台建设，2019.8至今，子任务牵头
+3. 国家科技重大专项，2015ZX03003012，通用M2M设备抽象和语义规范标准化研究（子课题），2015/01至今，参与；
+4. 国家科技支撑计划，2012BAH41F00，基于社交网络的电视内容云服务技术集成及应用示范（申请人所在团队牵头），2013/01至今，参与；
+5. 国家科技重大专项，2012ZX03005008，基于Web的无线泛在业务环境体系架构,关键技术研究与演示验证（所在团队牵头），2012/01至今，参与；
 
 #### 结题项目
 1. HIRP华为创新研究计划，“Assessment and Prediction of Microservice Health Based on Call Chain and Machine Learning”，2018/09-2019/12. 牵头
