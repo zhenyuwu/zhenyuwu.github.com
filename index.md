@@ -40,17 +40,20 @@
 
 
 ### 学术论文
-####2019
-* Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, “A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems,” IEEE Transactions on Reliability, 2019.12.
+#### 2020
+* Binghao Fu; Zhenyu Wu; Juchuan Guo, Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder, 2020 ICPHM, 2020.6. (TBA)
+
+#### 2019
+* Zhenyu Wu; Wenfang Lin; Yang Ji; Michael Pecht, A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems, IEEE Transactions on Reliability, 2019.12.
 * Zhenyu Wu; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
 * Shuyang Yu; Zhenyu Wu; Xinning Zhu; Michael Pecht, A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions, 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
-####2018
+#### 2018
 * Z. Wu et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7.
 * Zhenyu Wu; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1
 * Wu, Z.; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.
 * Zhenyu Wu; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System, 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
 
-####2017
+#### 2017
 * Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)
 * Wu, Zhenyu ; Itala, Timo; Tang, Tingan; Zhang, Chunhong; Ji, Yang; Hamalainen, Matti; Liu, Yunjie, A web-based two-layered integration framework for smart devices , EURASIP Journal on Wireless Communications and Networking. 2012
 * 吴振宇; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
@@ -58,7 +61,7 @@
 * Yang Guo; Zhenyu Wu; Yang Ji, A Hybrid Deep Representation Learning Model for Time Series Classification and Prediction, 2017 International Conference on Big Data Computing and Communications , 2017.8.10-2017.8.11
 * Yang, Yunong, Z. Wu, and X. Zhu. "Semi-automatic metadata annotation of Web of Things with knowledge base." IEEE International Conference on Network Infrastructure and Digital Content IEEE, 2017:124-129.
 
-####Earlier
+#### Earlier
 * Zhenyu Wu ; Yuan Xu; Yunong Yang; Chunhong Zhang; Yang Ji, Towards Semantic Web of Things: From Manual to Semi-automatic Semantic Annotation on Web of Things, The 2nd International Conference on Big Data Computing and Communication, 2016.7.29-2016.7.31
 * Wu, Zhenyu , et al. A web-based two-layered integration framework for smart devices. EURASIP Journal on Wireless Communications and Networking 2012.1(2012).
 * Zhenyu Wu ; Timo Itälä; Tingan Tang; Chunhong Zhang; Yang Ji; Matti Hämäläinen; Yunjie Liu, Gateway as a service: A cloud computing framework for web of things, 2012 19th International Conference on Telecommunications, ICT 2012, 2012.4.23-2012.4.25
