@@ -17,7 +17,7 @@
 * 《信息与通信工程专业导论》，2020国家级一流本科课程，排名第二
 * 《信息与通信工程专业导论》，2020北京高校优质本科课程（重点项目），排名第二
 * 《面向新生的工程认知与创新素质培养虚拟仿真实验》，2017教育部虚拟仿真实验示范项目（国家级）（电子信息类全国14个），排名第四
-* 《基于腾讯开放资源的创新创业课程体系建设》，2018教育部新工科产学协同育人优秀项目（国家级）（1万个项目中选20个），排名第二
+* 《基于腾讯开放资源的创新创业课程体系建设》，2018教育部新工科产学协同育人优秀项目（省部级）（1万个项目中选20个），排名第二
 * 《新工科工程专业认知与创新素质培养育人团队》，2019年北京高校优秀本科育人团队，排名第二
 * 《“回归育人、面向适变”--基于新生工程认知的新工科范式探索》，2017北京邮电大学教学成果一等奖，排名第二
 * 《面向创客教育的专业导论课建设》，2017北京邮电大学教学成果一等奖，排名第二
@@ -45,9 +45,13 @@
 
 
 ### 学术论文
+#### 2022
+* Zhenyu Wu*; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network, Expert Systems with Applications, 2022.5
+
 #### 2021
 * Chang Shi; Zhenyu Wu*; Xiaomeng Lv; Yang Ji, DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications, 2021.4
 * 吴振宇; 施畅*, 敏捷化AIOps框架及运维数据质量评估方法，北京邮电大学学报, 2021.6
+* Juchuang Guo; Yichen Liu; Zhenyu Wu, Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy, In proceedings of 2021 IC-NIDC, 2021.11
 
 #### 2020
 * Zhenyu Wu*; Wenfang Lin; Yang Ji; Michael Pecht, A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems, IEEE Transactions on Reliability, 2020.12.
