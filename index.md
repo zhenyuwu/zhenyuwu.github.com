@@ -2,9 +2,15 @@
 * 2019至今，北京邮电大学信息与通信工程学院，副教授，硕士生导师
 * 2013-2018，北京邮电大学信息与通信工程学院，讲师，硕士生导师
 <!--* 2020-2021，马里兰大学帕克分校访问学者（[CALCE中心](http://calce.umd.edu/)，IEEE Fellow，[Michael Pecht](https://calce.umd.edu/professor-michael-pecht)教授团队）-->
-* 2012-2013，芬兰阿尔托大学，计算机科学系，教育部公派联合培养博士
+* 2011-2012，芬兰阿尔托大学，计算机科学系，教育部公派联合培养博士
 * 2008-2013，北京邮电大学信息与通信工程学院，通信与信息系统，硕／博士研究生
 * 2004-2008，北京邮电大学信息工程学院，自动化，本科生
+
+## 研究方向
+*  工业大数据、工业智能、故障预测与健康管理（PHM）
+*  边缘智能与5G智能制造
+*  新一代信息通信网络智能运维（AIOps）
+*  工程教育应用
 
 ## 承担课程情况
 * 《信息与通信工程专业导论》（课程负责人），高新课，秋季学期，2017至今
@@ -14,7 +20,7 @@
 
 ##	教学成果
 ### 获奖情况
-* 《信息与通信工程专业导论》，2020国家级一流本科课程，排名第二
+* 《信息与通信工程专业导论》，2020国家一流本科课程（线上线下混合），排名第二
 * 《信息与通信工程专业导论》，2020北京高校优质本科课程（重点项目），排名第二
 * 《面向新生的工程认知与创新素质培养虚拟仿真实验》，2017教育部虚拟仿真实验示范项目（国家级）（电子信息类全国14个），排名第四
 * 《基于腾讯开放资源的创新创业课程体系建设》，2018教育部新工科产学协同育人优秀项目（省部级）（1万个项目中选20个），排名第二
@@ -46,26 +52,27 @@
 
 ### 学术论文
 #### 2022
-* Zhenyu Wu*; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network, Expert Systems with Applications, 2022.5
+* Zhenyu Wu*; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, [Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network](https://www.sciencedirect.com/science/article/pii/S0957417421017425), Expert Systems with Applications, 2022.5（中科院1区，IF6.954）
+*  Xiaomeng Lv; Hao Chen; Zhenyu Wu*; Junhua Han; Huifeng Guo, Alarm-based Root Cause Analysis Method based on Weighted Fault Propagation Graph for Distributed Information Network，ZTE Communications，2022（校企合作，to be appear）
 
 #### 2021
-* Chang Shi; Zhenyu Wu*; Xiaomeng Lv; Yang Ji, DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications, 2021.4
-* 吴振宇; 施畅*, 敏捷化AIOps框架及运维数据质量评估方法，北京邮电大学学报, 2021.6
-* Juchuang Guo; Yichen Liu; Zhenyu Wu, Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy, In proceedings of 2021 IC-NIDC, 2021.11
+* Chang Shi; Zhenyu Wu*; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417420310551), 2021.4（中科院1区，IF6.954）
+* 吴振宇; 施畅*, [敏捷化AIOps框架及运维数据质量评估方法](https://journal.bupt.edu.cn/CN/abstract/abstract4847.shtml)，北京邮电大学学报, 2021.6（信息与通信领域T1级）
+* Juchuang Guo; Yichen Liu; Zhenyu Wu, Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy, In proceedings of 2021 IC-NIDC, 2021.11（to be appear）
 
 #### 2020
-* Zhenyu Wu*; Wenfang Lin; Yang Ji; Michael Pecht, A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems, IEEE Transactions on Reliability, 2020.12.
-* Binghao Fu; Zhenyu Wu; Juchuan Guo, Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder, 2020 ICPHM, 2020.6.
+* Zhenyu Wu*; Wenfang Lin; Yang Ji; Michael Pecht, [A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems](https://ieeexplore.ieee.org/document/8897117), IEEE Transactions on Reliability, 2020.12.
+* Binghao Fu; Zhenyu Wu; Juchuan Guo, [Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder](https://ieeexplore.ieee.org/document/9187048), 2020 IC-PHM, 2020.6.
 
 #### 2019
-* Zhenyu Wu*; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions, IEEE Access, 2019.9.
-* Shuyang Yu; Zhenyu Wu; Xinning Zhu; Michael Pecht, A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions, 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
+* Zhenyu Wu*; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, [A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions](https://ieeexplore.ieee.org/document/8846029/similar#similar), IEEE Access, 2019.9.
+* Shuyang Yu; Zhenyu Wu; Xinning Zhu; Michael Pecht, [A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions](https://ieeexplore.ieee.org/document/8756479), 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
 
 #### 2018
-* Z. Wu* et al., K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model,"in IEEE ACCESS, 2018.7.
-* Zhenyu Wu*; Wenfang Lin; Yang Ji, An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics, IEEE ACCESS, 2018.2.19, PP(99): 1~1
-* Wu, Z.*; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.
-* Zhenyu Wu; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System, 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
+* Z. Wu* et al., [K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model](https://ieeexplore.ieee.org/document/8421220/),"in IEEE Access, 2018.7.
+* Zhenyu Wu*; Wenfang Lin; Yang Ji, [An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics](https://ieeexplore.ieee.org/document/8295035), IEEE Access, 2018.2.19, PP(99): 1~1
+* Wu, Z.*; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. [A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems](https://www.mdpi.com/1424-8220/18/4/1096). Sensors 2018, 18, 1096.
+* Zhenyu Wu; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, [An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System](https://ieeexplore.ieee.org/document/8355191/), 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
 
 #### 2017
 * Zhenyu Wu*; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)
