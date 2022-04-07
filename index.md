@@ -82,8 +82,8 @@
 * **Zhenyu Wu**; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, [An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System](https://ieeexplore.ieee.org/document/8355191/), 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
 
 #### 2017
-* **Zhenyu Wu***; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System, Sensors, 2017.2 .20, 2017(2)
-* **吴振宇***; 杨雨浓; 朱新宁, 面向智能诊断的语义物联网知识标注与推理框架, 北京邮电大学学报, 2017.10.13, (04): 1~6
+* **Zhenyu Wu***; Yuan Xu; Yunong Yang; Chunhong Zhang; Xinning Zhu; Yang Ji, [Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System](https://www.mdpi.com/1424-8220/17/2/403), Sensors, 2017.2 .20, 2017(2)
+* **吴振宇***; 杨雨浓; 朱新宁, [面向智能诊断的语义物联网知识标注与推理框架](https://x.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDTOTAL&filename=bjyd201704017), 北京邮电大学学报, 2017.10.13, (04): 1~6
 * Hao Luo; **Zhenyu Wu**; Xinning Zhu, A Cluster-Based Hidden Markov Model for High-level State Discovery from Time Series, 2017 International Conference on Big Data Computing and Communications, 2017.8.10-2017.8.11
 * Yang Guo; **Zhenyu Wu**; Yang Ji, A Hybrid Deep Representation Learning Model for Time Series Classification and Prediction, 2017 International Conference on Big Data Computing and Communications , 2017.8.10-2017.8.11
 * Yang, Yunong, **Z. Wu**, and X. Zhu. "Semi-automatic metadata annotation of Web of Things with knowledge base." IEEE International Conference on Network Infrastructure and Digital Content IEEE, 2017:124-129.
@@ -102,8 +102,7 @@
 3. 中兴产学研合作项目，面向承载网业务的智能故障诊断关键技术研究，2020.11至今，负责人
 4. 工业互联网创新发展工程——基于工业互联网平台的工业智能优化系统，2020.6至今，子任务负责人
 5. 工信部专项，新一代信息技术与制造业融合发展公共服务平台建设，2019.8至今，子任务负责人
-6. 国家科技支撑计划，2012BAH41F00，基于社交网络的电视内容云服务技术集成及应用示范（申请人所在团队牵头），2013/01至今，参与；
-7. 北京邮电大学科技创新行动计划项目（D类），面向工业预测性维护的大数据分析人才培养模式建设，2019.9至今，负责人
+6. 北京邮电大学科技创新行动计划项目（D类），面向工业预测性维护的大数据分析人才培养模式建设，2019.9至今，负责人
 
 
 #### 结题项目
@@ -113,6 +112,7 @@
 4. 国家国际科技合作专项，2010DFA12780，中芬基于livinglab的智慧设计创新网络平台研发与应用示范（申请人所在团队牵头），2011/01-2014/09，排名第四，参与;
 5. 国家国际科技合作专项，2010DFB10570，未来移动通信泛在业务与应用研究（子课题），2010/01-2014/10，排名第二，参与
 6. 国家科技重大专项项目，2011ZX03005-004-02，泛在网络下多终端协同的网络控制平台及关键技术，2011/01-2013/12，参加；
+7. 国家科技支撑计划，2012BAH41F00，基于社交网络的电视内容云服务技术集成及应用示范（申请人所在团队牵头），参与；
 
 
 
