@@ -24,15 +24,21 @@
 * 《面向新生的工程认知与创新素质培养虚拟仿真实验》，2017教育部虚拟仿真实验示范项目（国家级）（电子信息类全国14个），排名第四
 * 《基于腾讯开放资源的创新创业课程体系建设》，2018教育部新工科产学协同育人优秀项目（省部级）（1万个项目中选20个），排名第二
 * 《新工科工程专业认知与创新素质培养育人团队》，2019年北京高校优秀本科育人团队，排名第二
+* 《面向预测性维护的工业智能分析与应用开发在线实验平台》，2021年第六届全国高等学校教师自制实验教学仪器设备创新大赛三等奖，排名第一（650个项目中脱颖而出，进入总决赛的答辩路演环节）
 * 《“回归育人、面向适变”--基于新生工程认知的新工科范式探索》，2017北京邮电大学教学成果一等奖，排名第二
 * 《面向创客教育的专业导论课建设》，2017北京邮电大学教学成果一等奖，排名第二
 * 北京邮电大学华为奖教金
 
 ### 教改论文
 * [1] 新生工程教育问题与引导方式创新，《高等工程教育研究》，2018.8，CSSCI（IF2.740），第二作者
-* [2] 适变能力、工程认知与敏捷教改,《高等工程教育研究》，2018.12（IF2.740），CSSCI（IF2.740），第二作者
-* [3] An Open Maker Education Scheme based on Engineering Introductory Course, 2017《地平线项目区域性报告》-HCR 2017, 第二作者
-* [4] Analysis and Visualization of Students’ Learning Based on Multi-Topic Chat Text, Proceedings of IEEE MITE 2018, 第三作者
+* [2] 适变能力、工程认知与敏捷教改，《高等工程教育研究》，2018.12（IF2.740），CSSCI（IF2.740），第二作者
+* [3] 敏捷教改和产教学一体化学习共同体建设探索，《工业和信息化教育》，2018，第四作者
+* [4] 工程教育范式与新生工程导论课发展的观察与思考，《北京邮电大学学报：社会科学版》，2021，第三作者
+* [5] 课程创客马拉松对学生自主学习影响的初步分析，《北京邮电大学学报：社会科学版》，2020，第五作者
+* [6] An Open Maker Education Scheme based on Engineering Introductory Course, 2017《地平线项目区域性报告》-HCR 2017，第二作者
+* [7] Analysis and Visualization of Students’ Learning Based on Multi-Topic Chat Text, Proceedings of IEEE MITE 2018, 第三作者
+* [8] A Survival Analysis based Volatility and Sparsity Modeling Network for Student Dropout Prediction, PLOS ONE, 2022, 第六作者
+* [9] [新工科范式与新生工程认知模式研究白皮书(V1.0)](http://xgk.csia.org.cn/content.jsp?id=8a9e2bad75463d02017682cb7bd000e1&classid=f2e004e0dba648d4ad35ee737b273cf4)，信息技术新工科产学研联盟，2020，第四作者
 
 ## 科研成果
 ### 竞赛获奖
@@ -48,6 +54,7 @@
 * 《数据传输方法和WoT系统》ZL201210564609.2
 
 #### 已申请
+* 《一种故障诊断方法、装置、电子设备及存储介质》CN202210475187.5
 * 《一种工业场景中的低代码应用生成系统及方法》CN202210303408.8
 * 《基于云边协同系统的任务部署方法及装置》CN202210079870.7
 * 《一种基于告警数据的业务状态自动标注及分级方法》CN202210072965.6
@@ -65,7 +72,7 @@
 #### 2021
 * Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks, Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417420310551), 2021.4（中科院1区，IF6.954）
 * **吴振宇**; 施畅*, [敏捷化AIOps框架及运维数据质量评估方法](https://journal.bupt.edu.cn/CN/abstract/abstract4847.shtml)，北京邮电大学学报, 2021.6（信息与通信领域T1级）
-* Juchuang Guo; Yichen Liu; Zhenyu Wu, Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy, In proceedings of 2021 IC-NIDC, 2021.11（to be appear）
+* Juchuang Guo; Yichen Liu; **Zhenyu Wu**, Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy, In proceedings of 2021 IC-NIDC, 2021.11（to be appear）
 
 #### 2020
 * **Zhenyu Wu***; Wenfang Lin; Yang Ji; Michael Pecht, [A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems](https://ieeexplore.ieee.org/document/8897117), IEEE Transactions on Reliability, 2020.12.（中科院2区，IF4.424）
