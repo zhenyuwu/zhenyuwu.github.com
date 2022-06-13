@@ -74,9 +74,9 @@
 *  Hao Chen; Junhua Han; Xiaomeng Lv; **Zhenyu Wu***; Huifeng Guo; Zhiqiang Zhan, [A Semi-supervised Deep Learning Model with Consistency Regularization of Augmented Samples for Imbalanced Fault Detection](), 13th International Conference on Reliability, Maintainability, and Safety (ICRMS2022)（校企合作，to be appear）
 
 #### 2021
-* Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks](https://www.sciencedirect.com/science/article/pii/S0957417420310551), Expert Systems with Applications, 2021.4（中科院1区，IF6.954）
-* **吴振宇**; 施畅*, [敏捷化AIOps框架及运维数据质量评估方法](https://journal.bupt.edu.cn/CN/abstract/abstract4847.shtml)*，北京邮电大学学报, 2021.6（信息与通信领域T1级）
-* Juchuang Guo; Yichen Liu; **Zhenyu Wu**, *[Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy](), In proceedings of 2021 IC-NIDC, 2021.11（to be appear）
+*  Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks](https://www.sciencedirect.com/science/article/pii/S0957417420310551), Expert Systems with Applications, 2021.4（中科院1区，IF6.954）
+* **吴振宇**; 施畅*, [敏捷化AIOps框架及运维数据质量评估方法](https://journal.bupt.edu.cn/CN/abstract/abstract4847.shtml)，北京邮电大学学报, 2021.6（信息与通信领域T1级）
+* Juchuang Guo; Yichen Liu; **Zhenyu Wu**, [Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy](), In proceedings of 2021 IC-NIDC, 2021.11（to be appear）
 
 #### 2020
 * **Zhenyu Wu***; Wenfang Lin; Yang Ji; Michael Pecht, [A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems](https://ieeexplore.ieee.org/document/8897117), IEEE Transactions on Reliability, 2020.12.（中科院2区，IF4.424）
