@@ -43,9 +43,9 @@
 
 ## 科研成果
 ### 竞赛获奖
-* 工信部首届工业大数据创新竞赛三等奖。我们开发的新型算法模型在《风机结冰故障预测》赛题中，830支参赛队中排名第五，高校中排名第一
-* 指导研究生自主研发的“工业大数据预测性维护体验平台”获中国高校计算机大赛微信小程序应用开发赛全国三等奖
-* AIIA杯人工智能复杂网络建模创新大赛三等奖，Top 6 in 250
+* 工信部首届工业大数据创新竞赛三等奖，风机结冰故障预测赛题，Top 5 in 830（Top 1 in 高校）
+* 中国高校计算机大赛微信小程序应用开发赛全国三等奖，自主研发“工业大数据预测性维护体验平台”
+* AIIA杯人工智能复杂网络建模创新大赛三等奖，基站退服告警预测赛题，Top 6 in 250
 
 ### 专利
 #### 已授权
@@ -69,17 +69,17 @@
 
 ### 学术论文
 #### 2022
-* **Zhenyu Wu***; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, [Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network](https://www.sciencedirect.com/science/article/pii/S0957417421017425), Expert Systems with Applications, 2022.5（中科院1区，IF6.954）
-*  Xiaomeng Lv; Hao Chen; **Zhenyu Wu***; Junhua Han; Huifeng Guo, [Alarm-based Root Cause Analysis Method based on Weighted Fault Propagation Graph for Distributed Information Network]()，ZTE Communications，2022（校企合作，to be appear）
-*  Hao Chen; Junhua Han; Xiaomeng Lv; **Zhenyu Wu***; Huifeng Guo; Zhiqiang Zhan, [A Semi-supervised Deep Learning Model with Consistency Regularization of Augmented Samples for Imbalanced Fault Detection](), 13th International Conference on Reliability, Maintainability, and Safety (ICRMS2022)（校企合作，to be appear）
+* **Zhenyu Wu***; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, [Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network](https://www.sciencedirect.com/science/article/pii/S0957417421017425), Expert Systems with Applications, 2022.5（中科院1区Top，IF6.954）
+*  Xiaomeng Lyu; Hao Chen; **Zhenyu Wu***; Junhua Han; Huifeng Guo, [Alarm-based Root Cause Analysis Method based on Weighted Fault Propagation Graph for Distributed Information Network](https://kns.cnki.net/kcms/detail/34.1294.TN.20220805.1618.002.html), ZTE Communications, vol.20,no.3, pp.77-84, Sept. 2022
+*  Hao Chen; Junhua Han; Xiaomeng Lv; **Zhenyu Wu***; Huifeng Guo; Zhiqiang Zhan, [A Semi-supervised Deep Learning Model with Consistency Regularization of Augmented Samples for Imbalanced Fault Detection](), in proceedings of 13th International Conference on Reliability, Maintainability, and Safety (ICRMS2022)，2022.8.21-2022.8.24
 
 #### 2021
-*  Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks](https://www.sciencedirect.com/science/article/pii/S0957417420310551), Expert Systems with Applications, 2021.4（中科院1区，IF6.954）
+*  Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks](https://www.sciencedirect.com/science/article/pii/S0957417420310551), Expert Systems with Applications, 2021.4（中科院1区Top，IF6.954）
 * **吴振宇**; 施畅*, [敏捷化AIOps框架及运维数据质量评估方法](https://journal.bupt.edu.cn/CN/abstract/abstract4847.shtml)，北京邮电大学学报, 2021.6（信息与通信领域T1级）
-* Juchuang Guo; Yichen Liu; **Zhenyu Wu**, [Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy](), In proceedings of 2021 IC-NIDC, 2021.11（to be appear）
+* Juchuang Guo; Yichen Liu; **Zhenyu Wu**, [Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy](), In proceedings of 2021 IC-NIDC, 2021.11
 
 #### 2020
-* **Zhenyu Wu***; Wenfang Lin; Yang Ji; Michael Pecht, [A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems](https://ieeexplore.ieee.org/document/8897117), IEEE Transactions on Reliability, 2020.12.（中科院2区，IF4.424）
+* **Zhenyu Wu***; Wenfang Lin; Yang Ji; Michael Pecht, [A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems](https://ieeexplore.ieee.org/document/8897117), IEEE Transactions on Reliability, 2020.12.（中科院2区Top，IF4.424）
 * Binghao Fu; **Zhenyu Wu**; Juchuan Guo, [Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder](https://ieeexplore.ieee.org/document/9187048), 2020 IC-PHM, 2020.6.
 
 #### 2019
