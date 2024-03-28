@@ -8,16 +8,18 @@
 *  工业大数据、工业智能、故障预测与健康管理（PHM）
 *  边缘智能与5G智能制造
 *  新一代信息通信网络智能运维（AIOps）
-*  工程教育应用
+*  工程教育与墨工学应用
 
 ## 承担课程情况
 * 《信息与通信工程专业导论》（课程负责人），高新课，秋季学期，2017至今
-* 《移动互联网应用开发课程设计》（课程负责人），高新课，春季学期，2015至今
+* 《工业互联网智能应用开发课程设计》（课程负责人），高新课，春季学期，2023  至今
+* 《移动互联网应用开发课程设计》）（课程负责人），高新课，春季学期，2015至2023
 * 《Linux操作系统》，春季学期，2017-2018
 * 《大学计算机基础》 ，秋季学期，2014-2016
 
 ##	教学成果
 ### 获奖情况
+* 《最简端到端信息系统与系统探索学习法》，2023第三届全国高校电子信息类专业课程实验教学案例设计竞赛一等奖，排1
 * 《“回归育人、面向适变”–基于新生工程认知的新工科范式探索》，2021年北京市高等教育教学成果奖二等奖，排2
 * 《信息与通信工程专业导论》，第二届北京高校教师教学创新大赛二等奖（2022），排2
 * 《信息与通信工程专业导论》，2020国家一流本科课程（线上线下混合），排2
@@ -36,10 +38,11 @@
 * [3] 敏捷教改和产教学一体化学习共同体建设探索，《工业和信息化教育》，2018，第四作者
 * [4] 工程教育范式与新生工程导论课发展的观察与思考，《北京邮电大学学报：社会科学版》，2021，第三作者
 * [5] 课程创客马拉松对学生自主学习影响的初步分析，《北京邮电大学学报：社会科学版》，2020，第五作者
-* [6] An Open Maker Education Scheme based on Engineering Introductory Course, 2017《地平线项目区域性报告》-HCR 2017，第二作者
-* [7] Analysis and Visualization of Students’ Learning Based on Multi-Topic Chat Text, Proceedings of IEEE MITE 2018, 第三作者
-* [8] A Survival Analysis based Volatility and Sparsity Modeling Network for Student Dropout Prediction, PLOS ONE, 2022, 第六作者
-* [9] [新工科范式与新生工程认知模式研究白皮书(V1.0)](http://xgk.csia.org.cn/content.jsp?id=8a9e2bad75463d02017682cb7bd000e1&classid=f2e004e0dba648d4ad35ee737b273cf4)，信息技术新工科产学研联盟，2020，第四作者
+* [6] 《考工记》中的实验探索与因果推理：一种对工程哲学的中国源流考，《工程研究-跨学科视野中的工程》，2023，第四作者
+* [7] An Open Maker Education Scheme based on Engineering Introductory Course, 2017《地平线项目区域性报告》-HCR 2017，第二作者
+* [8] Analysis and Visualization of Students’ Learning Based on Multi-Topic Chat Text, Proceedings of IEEE MITE 2018, 第三作者
+* [9] A Survival Analysis based Volatility and Sparsity Modeling Network for Student Dropout Prediction, PLOS ONE, 2022, 第六作者
+* [10] [新工科范式与新生工程认知模式研究白皮书(V1.0)](http://xgk.csia.org.cn/content.jsp?id=8a9e2bad75463d02017682cb7bd000e1&classid=f2e004e0dba648d4ad35ee737b273cf4)，信息技术新工科产学研联盟，2020，第四作者
 
 ## 科研成果
 ### 竞赛获奖
@@ -64,14 +67,23 @@
 * 《物联网关及物联平台接纳家居设备的方法和物联网系统》CN201610537101.1
 
 ### 标准
+* 《智能服务 预测性维护 算法测评方法》，GB/T 43555-2023，2024年7月1日实施 （相关测评服务欢迎垂询~）
 * 《M2M终端设备业务能力技术要求》，GB/T 37294-2019，2019年10月1日实施
 
 
 ### 学术论文
+#### 2024
+* Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7 (accepted, CCF-B)
+
+#### 2023
+* J. Guo; **Z. Wu***; Y. Ji; Z. Zha, [Decoupled Multi-Class Adaptive Calibration Model for Long-Tailed Recognition](https://ieeexplore.ieee.org/document/10390803), 2023 8th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC), 2023.11
+*  L. Chen; **Z. Wu***; Y. Ji; Z. Zha, [Two-Stage Adaptive Gradient Quantization in Federated Learning](https://ieeexplore.ieee.org/document/10390881), 2023 8th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC), 2023.11
+*  张翰飞,李麟杰,**吴振宇**. [基于模型动态扩张与压缩的轴承故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=Ma1nt2RbXajCawq2tLYYjHpmfYKJfMDwtaGDO4LzVyWPnB5-LePHrCrDKtZdb8dDs2qX9jJ8BpXfczfBqgfgVExKJYMd4LSIsoZIOG586UhTM1BEiBQcqVlEsPxpBLJJHq6EaH9_xtnSUcft4iom2g==&uniplatform=NZKPT&language=CHS)//中国自动化学会.2023中国自动化大会论文集, 2023:7
+
 #### 2022
 * **Zhenyu Wu***; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, [Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network](https://www.sciencedirect.com/science/article/pii/S0957417421017425), Expert Systems with Applications, 2022.5（中科院1区Top，IF6.954）
 *  Xiaomeng Lyu; Hao Chen; **Zhenyu Wu***; Junhua Han; Huifeng Guo, [Alarm-based Root Cause Analysis Method based on Weighted Fault Propagation Graph for Distributed Information Network](https://kns.cnki.net/kcms/detail/34.1294.TN.20220805.1618.002.html), ZTE Communications, vol.20,no.3, pp.77-84, Sept. 2022
-*  Hao Chen; Junhua Han; Xiaomeng Lv; **Zhenyu Wu***; Huifeng Guo; Zhiqiang Zhan, [A Semi-supervised Deep Learning Model with Consistency Regularization of Augmented Samples for Imbalanced Fault Detection](), in proceedings of 13th International Conference on Reliability, Maintainability, and Safety (ICRMS2022)，2022.8.21-2022.8.24
+*  Hao Chen; Junhua Han; Xiaomeng Lv; **Zhenyu Wu***; Huifeng Guo; Zhiqiang Zhan, [A Semi-supervised Deep Learning Model with Consistency Regularization of Augmented Samples for Imbalanced Fault Detection](https://ieeexplore.ieee.org/document/9944609/), in proceedings of 13th International Conference on Reliability, Maintainability, and Safety (ICRMS2022)，2022.8.21-2022.8.24
 
 #### 2021
 *  Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks](https://www.sciencedirect.com/science/article/pii/S0957417420310551), Expert Systems with Applications, 2021.4（中科院1区Top，IF6.954）
