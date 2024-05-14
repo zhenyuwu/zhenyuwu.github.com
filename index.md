@@ -1,7 +1,7 @@
 ## 工作教育经历
-* 2013至今，北京邮电大学信息与通信工程学院（任教）
-* 2011-2012，芬兰阿尔托大学计算机科学系（教育部公派联合培养博士）
-* 2008-2013，北京邮电大学信息与通信工程学院（硕博研究生）
+* 2013至今，北京邮电大学信息与通信工程学院信息处理教研中心/教育部信息网络工程研究中心（任教）
+* 2011-2012，芬兰阿尔托大学计算机科学系（教育部公派联合培养博士，合作导师：Matti Hamalainen）
+* 2008-2013，北京邮电大学信息与通信工程学院（硕博研究生，硕士导师：纪阳，博士导师：刘韵洁）
 * 2004-2008，北京邮电大学信息工程学院（本科）
 
 ## 研究方向
@@ -39,10 +39,12 @@
 * [4] 工程教育范式与新生工程导论课发展的观察与思考，《北京邮电大学学报：社会科学版》，2021，第三作者
 * [5] 课程创客马拉松对学生自主学习影响的初步分析，《北京邮电大学学报：社会科学版》，2020，第五作者
 * [6] 《考工记》中的实验探索与因果推理：一种对工程哲学的中国源流考，《工程研究-跨学科视野中的工程》，2023，第四作者
-* [7] An Open Maker Education Scheme based on Engineering Introductory Course, 2017《地平线项目区域性报告》-HCR 2017，第二作者
-* [8] Analysis and Visualization of Students’ Learning Based on Multi-Topic Chat Text, Proceedings of IEEE MITE 2018, 第三作者
-* [9] A Survival Analysis based Volatility and Sparsity Modeling Network for Student Dropout Prediction, PLOS ONE, 2022, 第六作者
-* [10] [新工科范式与新生工程认知模式研究白皮书(V1.0)](http://xgk.csia.org.cn/content.jsp?id=8a9e2bad75463d02017682cb7bd000e1&classid=f2e004e0dba648d4ad35ee737b273cf4)，信息技术新工科产学研联盟，2020，第四作者
+* [7] 创新型导论课达成度评价方法探索，《工业和信息化教育》2023,(8):59-63，第二作者
+* [8] 工程科幻创作与工程想象力教育，《工程研究-跨学科视野中的工程》，2024，第四作者
+* [9] An Open Maker Education Scheme based on Engineering Introductory Course, 2017《地平线项目区域性报告》-HCR 2017，第二作者
+* [10] Analysis and Visualization of Students’ Learning Based on Multi-Topic Chat Text, Proceedings of IEEE MITE 2018, 第三作者
+* [11] A Survival Analysis based Volatility and Sparsity Modeling Network for Student Dropout Prediction, PLOS ONE, 2022, 第六作者
+* [12] [新工科范式与新生工程认知模式研究白皮书(V1.0)](http://xgk.csia.org.cn/content.jsp?id=8a9e2bad75463d02017682cb7bd000e1&classid=f2e004e0dba648d4ad35ee737b273cf4)，信息技术新工科产学研联盟，2020，第四作者
 
 ## 科研成果
 ### 竞赛获奖
@@ -73,6 +75,7 @@
 
 ### 学术论文
 #### 2024
+* **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](), Expert Systems with Applications, to be appear in 2024（Accepted，中科院1区Top，IF8.5）
 * Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7 (accepted, CCF-B)
 
 #### 2023
