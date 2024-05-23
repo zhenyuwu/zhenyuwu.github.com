@@ -75,7 +75,7 @@
 
 ### 学术论文
 #### 2024
-* **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](), Expert Systems with Applications, to be appear in 2024（Accepted，中科院1区Top，IF8.5）
+* **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](https://doi.org/10.1016/j.eswa.2024.124240), Expert Systems with Applications, to be appear in 2024（Accepted，中科院1区Top，IF8.5）
 * Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7 (accepted, CCF-B)
 
 #### 2023
