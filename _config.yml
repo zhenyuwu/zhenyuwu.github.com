@@ -1,6 +1,8 @@
 title: 吴振宇@北邮
 logo: /img/person.jpg
-description: <b>职称：</b>副教授  博士生导师 <br/><b>研究方向：</b>工业大数据分析、故障预测与健康管理（PHM）、机器学习、深度学习 <br/><b>办公地址：</b>北京邮电大学新科研楼818<br/> <b>团队主页：</b> <a href="https://minelabwot.github.io">https://minelabwot.github.io</a> <br/> <b>联系方式：</b>shower0512@bupt.edu.cn <br/> <a href="https://info.flagcounter.com/0D2c"><img src="https://s01.flagcounter.com/count2/0D2c/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_3/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+description: <b>职称：</b>副教授  博士生导师 <br/><b>研究方向：</b>工业大数据分析、故障预测与健康管理（PHM）、机器学习、深度学习 <br/><b>办公地址：</b>北京邮电大学新科研楼818<br/> <b>团队主页：</b> <a href="https://minelabwot.github.io">https://minelabwot.github.io</a> <br/> <b>联系方式：</b>shower0512@bupt.edu.cn <br/> 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
