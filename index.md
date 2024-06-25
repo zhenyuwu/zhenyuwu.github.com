@@ -150,5 +150,5 @@
 <!-- <a href="https://info.flagcounter.com/0D2c"><img src="https://s01.flagcounter.com/count2/0D2c/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_3/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 
-<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span> -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<b><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></b>
