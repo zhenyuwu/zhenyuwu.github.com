@@ -148,6 +148,8 @@
 1. 火花空间-工程认知与创新素质培养在线自主学习平台：[http://www.oursparkspace.cn]()
 2. 面向工业预测性维护的大数据分析虚拟仿真实验平台：[http://www.phmlearn.com]()
 3. 项目组开源项目：[https://github.com/minelabwot/]()
+4. 工业AI工程化（Industrial AI Engineering）业务平台:
+![IAI-1](/img/IAI-1.jpg "IAI-1")![IAI-2](/img/IAI-2.jpg "IAI-2")
 
 <!-- <a href="https://info.flagcounter.com/0D2c"><img src="https://s01.flagcounter.com/count2/0D2c/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_3/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
