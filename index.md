@@ -75,8 +75,9 @@
 
 ### 学术论文
 #### 2024
-* **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](https://doi.org/10.1016/j.eswa.2024.124240), Expert Systems with Applications, to be appear in 2024（Accepted，中科院1区Top，IF8.5）
-* Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7 (accepted, CCF-B)
+* Xiaona Sun，**Zhenyu Wu***，Yang Ji，Zhiqiang Zhan，[centroIDA: Cross-Domain Class Discrepancy Minimization Based on Accumulative Class-Centroids for Imbalanced Domain Adaptation](), Expert Systems with Applications, to be appear in 2024（Accepted，中科院1区Top，IF7.5）
+* **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](https://doi.org/10.1016/j.eswa.2024.124240), Expert Systems with Applications, to be appear in 2024.9（在线发表，中科院1区Top，IF7.5）[code](https://github.com/minelabwot/Decoupling-Deep-Domain-Adaptation-Method)
+* Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7 (accepted, CCF-B)[code](https://github.com/CZX-Yui/DFL-FS)
 
 #### 2023
 * J. Guo; **Z. Wu***; Y. Ji; Z. Zha, [Decoupled Multi-Class Adaptive Calibration Model for Long-Tailed Recognition](https://ieeexplore.ieee.org/document/10390803), 2023 8th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC), 2023.11
@@ -84,26 +85,26 @@
 *  张翰飞,李麟杰,**吴振宇**. [基于模型动态扩张与压缩的轴承故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=Ma1nt2RbXajCawq2tLYYjHpmfYKJfMDwtaGDO4LzVyWPnB5-LePHrCrDKtZdb8dDs2qX9jJ8BpXfczfBqgfgVExKJYMd4LSIsoZIOG586UhTM1BEiBQcqVlEsPxpBLJJHq6EaH9_xtnSUcft4iom2g==&uniplatform=NZKPT&language=CHS)//中国自动化学会.2023中国自动化大会论文集, 2023:7
 
 #### 2022
-* **Zhenyu Wu***; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, [Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network](https://www.sciencedirect.com/science/article/pii/S0957417421017425), Expert Systems with Applications, 2022.5（中科院1区Top，IF6.954）
+* **Zhenyu Wu***; Hongkui Zhang; Juchuan Guo; Yang Ji; Michael Pecht, [Imbalanced Bearing Fault Diagnosis under Variant Working Conditions using Cost-Sensitive Deep Domain Adaptation Network](https://www.sciencedirect.com/science/article/pii/S0957417421017425), Expert Systems with Applications, 2022.5（中科院1区Top，IF6.954）[code](https://github.com/minelabwot/Deep-Imba-DA-MSDA)
 *  Xiaomeng Lyu; Hao Chen; **Zhenyu Wu***; Junhua Han; Huifeng Guo, [Alarm-based Root Cause Analysis Method based on Weighted Fault Propagation Graph for Distributed Information Network](https://kns.cnki.net/kcms/detail/34.1294.TN.20220805.1618.002.html), ZTE Communications, vol.20,no.3, pp.77-84, Sept. 2022
 *  Hao Chen; Junhua Han; Xiaomeng Lv; **Zhenyu Wu***; Huifeng Guo; Zhiqiang Zhan, [A Semi-supervised Deep Learning Model with Consistency Regularization of Augmented Samples for Imbalanced Fault Detection](https://ieeexplore.ieee.org/document/9944609/), in proceedings of 13th International Conference on Reliability, Maintainability, and Safety (ICRMS2022)，2022.8.21-2022.8.24
 
 #### 2021
-*  Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks](https://www.sciencedirect.com/science/article/pii/S0957417420310551), Expert Systems with Applications, 2021.4（中科院1区Top，IF6.954）
+*  Chang Shi; **Zhenyu Wu***; Xiaomeng Lv; Yang Ji, [DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks](https://www.sciencedirect.com/science/article/pii/S0957417420310551), Expert Systems with Applications, 2021.4（中科院1区Top，IF6.954）[code](https://github.com/minelabwot/DGTL-Net)
 * **吴振宇**; 施畅*, [敏捷化AIOps框架及运维数据质量评估方法](https://journal.bupt.edu.cn/CN/abstract/abstract4847.shtml)，北京邮电大学学报, 2021.6（信息与通信领域T1级）
 * Juchuang Guo; Yichen Liu; **Zhenyu Wu**, [Decoupling Deep Domain Adaptation Method for Class-Imbalanced Learning with Domain Discrepancy](https://ieeexplore.ieee.org/document/9660444/), In proceedings of 2021 IC-NIDC, 2021.11
 
 #### 2020
-* **Zhenyu Wu***; Wenfang Lin; Yang Ji; Michael Pecht, [A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems](https://ieeexplore.ieee.org/document/8897117), IEEE Transactions on Reliability, 2020.12.（中科院2区Top，IF4.424）
+* **Zhenyu Wu***; Wenfang Lin; Yang Ji; Michael Pecht, [A Local Adaptive Minority Selection and Oversampling Method for Class-Imbalanced Fault Diagnostics in Industrial Systems](https://ieeexplore.ieee.org/document/8897117), IEEE Transactions on Reliability, 2020.12.（中科院2区Top，IF4.424）[code](https://github.com/linwenfang/EM-MWMOTE)
 * Binghao Fu; **Zhenyu Wu**; Juchuan Guo, [Remaining Useful Life Prediction under Multiple Operation Conditions based on Domain Adaptive Sparse Auto-Encoder](https://ieeexplore.ieee.org/document/9187048), 2020 IC-PHM, 2020.6.
 
 #### 2019
-* **Zhenyu Wu***; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, [A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions](https://ieeexplore.ieee.org/document/8846029/similar#similar), IEEE Access, 2019.9.（中科院2区）
+* **Zhenyu Wu***; Shuyang Yu; Xinning Zhu; Yang Ji; Michael Pecht, [A Weighted Deep Domain Adaptation Method for Industrial Fault Prognostics according to Prior Distribution of Complex Working Conditions](https://ieeexplore.ieee.org/document/8846029/similar#similar), IEEE Access, 2019.9.（中科院2区）[code](https://github.com/yshuyan/Bearing)
 * Shuyang Yu; **Zhenyu Wu**; Xinning Zhu; Michael Pecht, [A Domain Adaptive Convolutional LSTM Model for Prognostic Remaining Useful Life Estimation under Variant Conditions](https://ieeexplore.ieee.org/document/8756479), 2019 Prognostics and System Health Management Conference, 2019.5.2-2019.5.4
 
 #### 2018
 * **Z. Wu***; Hao Luo and et al., [K-PdM: KPI-oriented Machinery Deterioration Estimation Framework for Predictive Maintenance using Cluster-based Hidden Markov Model](https://ieeexplore.ieee.org/document/8421220/),"in IEEE Access, 2018.7.（中科院2区）
-* **Zhenyu Wu***; Wenfang Lin; Yang Ji, [An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics](https://ieeexplore.ieee.org/document/8295035), IEEE Access, 2018.2.19, PP(99): 1~1（中科院2区）
+* **Zhenyu Wu***; Wenfang Lin; Yang Ji, [An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics](https://ieeexplore.ieee.org/document/8295035), IEEE Access, 2018.2.19, PP(99): 1~1（中科院2区）[code](https://github.com/minelabwot/ImbalanceLearning)
 * **Wu, Z.***; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. [A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems](https://www.mdpi.com/1424-8220/18/4/1096). Sensors 2018, 18, 1096.（中科院2区）
 * **Zhenyu Wu**; Hao Luo; Yunong Yang; Xinning Zhu; Xiaofeng Qiu, [An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System](https://ieeexplore.ieee.org/document/8355191/), 2018 IEEE WF-IoT, 2018.2.5-2018.2.8
 
