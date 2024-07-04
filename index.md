@@ -153,6 +153,7 @@
 <kbd><img src="/img/IAI-2.jpg"/></kbd>
 <kbd><img src="/img/IAI-3.jpg"/></kbd>
 <kbd><img src="/img/IAI-4.jpg"/></kbd>
+<kbd><img src="/img/IAI-demo0.jpg"/></kbd>
 <kbd><img src="/img/IAI-demo1.jpg"/></kbd>
 <kbd><img src="/img/IAI-demo2.jpg"/></kbd>
 
