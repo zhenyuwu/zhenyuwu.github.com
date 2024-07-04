@@ -149,7 +149,6 @@
 2. 面向工业预测性维护的大数据分析虚拟仿真实验平台：[http://www.phmlearn.com]()
 3. 项目组开源项目：[https://github.com/minelabwot/]()
 4. 工业AI工程化（Industrial AI Engineering）业务平台:
-![IAI-1](/img/IAI-1.jpg "IAI-1")![IAI-2](/img/IAI-2.jpg "IAI-2")
 <kbd><img src="/img/IAI-1.jpg"/></kbd>
 <kbd><img src="/img/IAI-2.jpg"/></kbd>
 <kbd><img src="/img/IAI-3.jpg"/></kbd>
