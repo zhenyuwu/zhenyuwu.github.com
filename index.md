@@ -77,7 +77,7 @@
 #### 2024
 * Xiaona Sun，**Zhenyu Wu***，Yang Ji，Zhiqiang Zhan，[centroIDA: Cross-Domain Class Discrepancy Minimization Based on Accumulative Class-Centroids for Imbalanced Domain Adaptation](), Expert Systems with Applications, to be appear in 2024（Accepted，中科院1区Top，IF7.5）
 * **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](https://doi.org/10.1016/j.eswa.2024.124240), Expert Systems with Applications, to be appear in 2024.9（在线发表，中科院1区Top，IF7.5）[[code](https://github.com/minelabwot/Decoupling-Deep-Domain-Adaptation-Method)]
-* Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7（accepted, CCF-B）[code](https://github.com/CZX-Yui/DFL-FS)
+* Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7（accepted, CCF-B）[[code](https://github.com/CZX-Yui/DFL-FS)]
 
 #### 2023
 * J. Guo; **Z. Wu***; Y. Ji; Z. Zha, [Decoupled Multi-Class Adaptive Calibration Model for Long-Tailed Recognition](https://ieeexplore.ieee.org/document/10390803), 2023 8th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC), 2023.11
