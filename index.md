@@ -151,6 +151,9 @@
 4. 工业AI工程化（Industrial AI Engineering）业务平台:
 ![IAI-1](/img/IAI-1.jpg "IAI-1")![IAI-2](/img/IAI-2.jpg "IAI-2")
 
+<kbd><img src="/img/IAI-3.jpg"/></kbd>
+
+
 <!-- <a href="https://info.flagcounter.com/0D2c"><img src="https://s01.flagcounter.com/count2/0D2c/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_3/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 
