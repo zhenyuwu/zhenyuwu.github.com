@@ -5,7 +5,7 @@
 * 2004-2008，北京邮电大学信息工程学院（本科）
 
 ## 研究方向
-![研究方向](/img/研究方向.jpg "research")
+<kbd><img src="/研究方向.jpg"/></kbd>
 *  工业大数据、工业智能、故障预测与健康管理（PHM）
 *  边缘智能与5G智能制造
 *  新一代信息通信网络智能运维（AIOps）
@@ -150,8 +150,12 @@
 3. 项目组开源项目：[https://github.com/minelabwot/]()
 4. 工业AI工程化（Industrial AI Engineering）业务平台:
 ![IAI-1](/img/IAI-1.jpg "IAI-1")![IAI-2](/img/IAI-2.jpg "IAI-2")
-
+<kbd><img src="/img/IAI-1.jpg"/></kbd>
+<kbd><img src="/img/IAI-2.jpg"/></kbd>
 <kbd><img src="/img/IAI-3.jpg"/></kbd>
+<kbd><img src="/img/IAI-4.jpg"/></kbd>
+<kbd><img src="/img/IAI-demo1.jpg"/></kbd>
+<kbd><img src="/img/IAI-demo2.jpg"/></kbd>
 
 
 <!-- <a href="https://info.flagcounter.com/0D2c"><img src="https://s01.flagcounter.com/count2/0D2c/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_3/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
