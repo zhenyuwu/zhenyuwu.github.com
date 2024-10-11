@@ -76,7 +76,7 @@
 
 ### 学术论文
 #### 2024
-* Linjie Li，**Zhenyu Wu***，Jiaming Liu，Yang Ji，[TaE: Task-aware Expandable Representation for Long Tail Class Incremental Learning](), 17th Asian Conference on Computer Vision（ACCV 2024）, Kolkata, India，2024.12（Accepted，CCF-C）[[code]()]
+* Linjie Li，**Zhenyu Wu***，Jiaming Liu，Yang Ji，[TaE: Task-aware Expandable Representation for Long Tail Class Incremental Learning](), 17th Asian Conference on Computer Vision（ACCV 2024）, Hanoi, Vietnam，2024.12（Accepted，CCF-C）[[code]()]
 * Xiaona Sun，**Zhenyu Wu***，Zhiqiang Zhan，Yang Ji，[Contrastive Conditional Alignment based on Label Shift Calibration for Imbalanced Domain Adaptation](), 27th International Conference on Pattern Recognition（ICPR 2024）, Kolkata, India，2024.12（Accepted，CCF-C）[[code](https://github.com/ysxcj-hub/CCA-LSC)]
 * Xiaona Sun，**Zhenyu Wu***，Yang Ji，Zhiqiang Zhan，[centroIDA: Cross-Domain Class Discrepancy Minimization Based on Accumulative Class-Centroids for Imbalanced Domain Adaptation](https://doi.org/10.1016/j.eswa.2024.124718), Expert Systems with Applications, to be appear in 2024.12（Accepted，中科院1区Top，IF7.5）[[code](https://github.com/ysxcj-hub/centroIDA)]
 * **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](https://doi.org/10.1016/j.eswa.2024.124240), Expert Systems with Applications, to be appear in 2024.9（在线发表，中科院1区Top，IF7.5）[[code](https://github.com/minelabwot/Decoupling-Deep-Domain-Adaptation-Method)]
