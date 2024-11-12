@@ -76,11 +76,12 @@
 
 ### 学术论文
 #### 2024
-* Linjie Li，**Zhenyu Wu***，Jiaming Liu，Yang Ji，[TaE: Task-aware Expandable Representation for Long Tail Class Incremental Learning](), 17th Asian Conference on Computer Vision（ACCV 2024）, Hanoi, Vietnam，2024.12（Accepted，CCF-C）[[code]()]
+* Linjie Li，**Zhenyu Wu***，Jiaming Liu，Yang Ji，[TaE: Task-aware Expandable Representation for Long Tail Class Incremental Learning](https://arxiv.org/abs/2402.05797), 17th Asian Conference on Computer Vision（ACCV 2024）, Hanoi, Vietnam，2024.12（Accepted，CCF-C）[[code]()]
 * Xiaona Sun，**Zhenyu Wu***，Zhiqiang Zhan，Yang Ji，[Contrastive Conditional Alignment based on Label Shift Calibration for Imbalanced Domain Adaptation](), 27th International Conference on Pattern Recognition（ICPR 2024）, Kolkata, India，2024.12（Accepted，CCF-C）[[code](https://github.com/ysxcj-hub/CCA-LSC)]
 * Xiaona Sun，**Zhenyu Wu***，Yang Ji，Zhiqiang Zhan，[centroIDA: Cross-Domain Class Discrepancy Minimization Based on Accumulative Class-Centroids for Imbalanced Domain Adaptation](https://doi.org/10.1016/j.eswa.2024.124718), Expert Systems with Applications, to be appear in 2024.12（Accepted，中科院1区Top，IF7.5）[[code](https://github.com/ysxcj-hub/centroIDA)]
+* Manyao Fu，**Zhenyu Wu***，Banghao Xu，Yang Ji，[Reinforcement Learning-based Scheduling for UAV-assisted Ad-hoc Computing-awareNetwork](), 2024 IEEE 24th International Conference on Communication Technology（IEEE ICCT 2024）, Chengdu, China, 2024.11（Accepted）[[code]()]
 * **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](https://doi.org/10.1016/j.eswa.2024.124240), Expert Systems with Applications, to be appear in 2024.9（在线发表，中科院1区Top，IF7.5）[[code](https://github.com/minelabwot/Decoupling-Deep-Domain-Adaptation-Method)]
-* Zhuoxin Chen, **Zhenyu Wu*** and Yang Ji, [Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7（Accepted, CCF-B）[[code](https://github.com/CZX-Yui/DFL-FS)]
+* Zhuoxin Chen，**Zhenyu Wu***，Yang Ji，[Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7（Accepted, CCF-B）[[code](https://github.com/CZX-Yui/DFL-FS)]
 
 #### 2023
 * J. Guo; **Z. Wu***; Y. Ji; Z. Zha, [Decoupled Multi-Class Adaptive Calibration Model for Long-Tailed Recognition](https://ieeexplore.ieee.org/document/10390803), 2023 8th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC), 2023.11
