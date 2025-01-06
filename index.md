@@ -20,8 +20,9 @@
 
 ##	教学成果
 ### 获奖情况
+* 《邮百工多智能协同模拟工程教育训练平台与模式》，2024第一届全国电子信息类专业高校教师智慧教学案例竞赛一等奖（浩埔杯，全国唯一），排2
 * 《最简端到端信息系统与系统探索学习法》，2023第三届全国高校电子信息类专业课程实验教学案例设计竞赛一等奖，排1
-* 《“回归育人、面向适变”–基于新生工程认知的新工科范式探索》，2021年北京市高等教育教学成果奖二等奖，排2
+* 《“回归育人、面向适变”–基于新生工程认知的新工科范式探索》，2022年北京市高等教育教学成果奖二等奖，排2
 * 《信息与通信工程专业导论》，第二届北京高校教师教学创新大赛二等奖（2022），排2
 * 《信息与通信工程专业导论》，2020国家一流本科课程（线上线下混合），排2
 * 《信息与通信工程专业导论》，2020北京高校优质本科课程（重点项目），排2
@@ -49,12 +50,15 @@
 
 ## 科研成果
 ### 竞赛获奖
+* 中国国际大学生创新大赛（2024）北京赛区二等奖，工智工坊-云原生云边协同工业AI工程化解决方案
+* 中国国际大学生创新大赛（2024）北京赛区二等奖，科技兼爱——面向乡村留守儿童的科普博物支教体系
 * 工信部首届工业大数据创新竞赛三等奖，风机结冰故障预测赛题，Top 5 in 830（Top 1 in 高校）
 * AIIA杯人工智能复杂网络建模创新大赛三等奖，基站退服告警预测赛题，Top 6 in 250
 * 中国高校计算机大赛微信小程序应用开发赛全国三等奖，自主研发“工业大数据预测性维护体验平台”
 
 ### 专利
 #### 已授权
+* 《一种故障诊断方法、装置、电子设备及存储介质》ZL202210475187.5
 * 《一种磁盘故障预测方法、系统、装置及存储介质》ZL201911174528.X
 * 《面向IT运维的监控数据处理方法、系统、装置及存储介质》ZL201911288842.0
 * 《基于Web技术的物联网系统及该系统的数据处理方法》ZL201210223599.6
@@ -62,26 +66,25 @@
 
 #### 已申请
 * 《基于解耦迁移的联邦学习方法在计算机视觉上的应用》CN202210664405.X
-* 《一种故障诊断方法、装置、电子设备及存储介质》CN202210475187.5
 * 《一种工业场景中的低代码应用生成系统及方法》CN202210303408.8
 * 《基于云边协同系统的任务部署方法及装置》CN202210079870.7
-* 《一种基于告警数据的业务状态自动标注及分级方法》CN202210072965.6
-* 《一种基于告警数据与拓扑图的故障根源定位方法》CN202110638851.9
+* 《业务状态级别分类及分类模型训练方法、电子设备》CN202210072965.6
+* 《网络检测方法、电子设备、计算机可读介质》CN202110638851.9
 * 《物联网关及物联平台接纳家居设备的方法和物联网系统》CN201610537101.1
 
 ### 标准
-* 《智能服务 预测性维护 算法测评方法》，GB/T 43555-2023，2024年7月1日实施 （相关测评服务欢迎垂询~）
+* 《智能服务 预测性维护 算法测评方法》，GB/T 43555-2023，2024年7月1日实施 （******相关测评服务欢迎垂询*******）
 * 《M2M终端设备业务能力技术要求》，GB/T 37294-2019，2019年10月1日实施
 
 
 ### 学术论文
 #### 2024
-* Linjie Li，**Zhenyu Wu***，Jiaming Liu，Yang Ji，[TaE: Task-aware Expandable Representation for Long Tail Class Incremental Learning](https://arxiv.org/abs/2402.05797), 17th Asian Conference on Computer Vision（ACCV 2024）, Hanoi, Vietnam，2024.12（Accepted，CCF-C）[[code]()]
-* Xiaona Sun，**Zhenyu Wu***，Zhiqiang Zhan，Yang Ji，[Contrastive Conditional Alignment based on Label Shift Calibration for Imbalanced Domain Adaptation](), 27th International Conference on Pattern Recognition（ICPR 2024）, Kolkata, India，2024.12（Accepted，CCF-C）[[code](https://github.com/ysxcj-hub/CCA-LSC)]
-* Xiaona Sun，**Zhenyu Wu***，Yang Ji，Zhiqiang Zhan，[centroIDA: Cross-Domain Class Discrepancy Minimization Based on Accumulative Class-Centroids for Imbalanced Domain Adaptation](https://doi.org/10.1016/j.eswa.2024.124718), Expert Systems with Applications, to be appear in 2024.12（Accepted，中科院1区Top，IF7.5）[[code](https://github.com/ysxcj-hub/centroIDA)]
+* Linjie Li，**Zhenyu Wu***，Jiaming Liu，Yang Ji，[TaE: Task-aware Expandable Representation for Long Tail Class Incremental Learning](https://arxiv.org/abs/2402.05797), 17th Asian Conference on Computer Vision（ACCV 2024）, Hanoi, Vietnam，2024.12（CCF-C）[[code]()]
+* Xiaona Sun，**Zhenyu Wu***，Zhiqiang Zhan，Yang Ji，[Contrastive Conditional Alignment based on Label Shift Calibration for Imbalanced Domain Adaptation](https://arxiv.org/abs/2412.20337v1), 27th International Conference on Pattern Recognition（ICPR 2024）, Kolkata, India，2024.12（CCF-C）[[code](https://github.com/ysxcj-hub/CCA-LSC)]
+* Xiaona Sun，**Zhenyu Wu***，Yang Ji，Zhiqiang Zhan，[centroIDA: Cross-Domain Class Discrepancy Minimization Based on Accumulative Class-Centroids for Imbalanced Domain Adaptation](https://doi.org/10.1016/j.eswa.2024.124718), Expert Systems with Applications, 2024.12（中科院1区Top，IF7.5）[[code](https://github.com/ysxcj-hub/centroIDA)]
 * Manyao Fu，**Zhenyu Wu***，Banghao Xu，Yang Ji，[Reinforcement Learning-based Scheduling for UAV-assisted Ad-hoc Computing-awareNetwork](), 2024 IEEE 24th International Conference on Communication Technology（IEEE ICCT 2024）, Chengdu, China, 2024.11（Accepted）[[code]()]
 * **Zhenyu Wu***，Jvchuan Guo，Yichen Liu，Linjie Li，Yang Ji，[An Iterative Resampling Deep Decoupling Domain Adaptation Method for Class-imbalance Bearing Fault Diagnosis under Variant Working Conditions](https://doi.org/10.1016/j.eswa.2024.124240), Expert Systems with Applications, to be appear in 2024.9（在线发表，中科院1区Top，IF7.5）[[code](https://github.com/minelabwot/Decoupling-Deep-Domain-Adaptation-Method)]
-* Zhuoxin Chen，**Zhenyu Wu***，Yang Ji，[Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7（Accepted, CCF-B）[[code](https://github.com/CZX-Yui/DFL-FS)]
+* Zhuoxin Chen，**Zhenyu Wu***，Yang Ji，[Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics](https://arxiv.org/abs/2403.08364). 2024 IEEE International Conference on Multimedia & Expo (ICME 2024), Niagara Falls, Canada, 2024.7（CCF-B）[[code](https://github.com/CZX-Yui/DFL-FS)]
 
 #### 2023
 * J. Guo; **Z. Wu***; Y. Ji; Z. Zha, [Decoupled Multi-Class Adaptive Calibration Model for Long-Tailed Recognition](https://ieeexplore.ieee.org/document/10390803), 2023 8th IEEE International Conference on Network Intelligence and Digital Content (IC-NIDC), 2023.11
