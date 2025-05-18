@@ -73,11 +73,16 @@
 * 《物联网关及物联平台接纳家居设备的方法和物联网系统》CN201610537101.1
 
 ### 标准
+* 《智能服务 预测性维护绩效评价方法》，GB/T 45507-2025，2025年10月1日实施
 * 《智能服务 预测性维护 算法测评方法》，GB/T 43555-2023，2024年7月1日实施 （******相关测评服务欢迎垂询*******）
 * 《M2M终端设备业务能力技术要求》，GB/T 37294-2019，2019年10月1日实施
 
 
 ### 学术论文
+#### 2025
+* Linjie Li，**Zhenyu Wu***，Yang Ji, [MoTE: Mixture of Task-specific Experts for Pre-Trained Model-Based Class-incremental Learning](), Knowledge-Based Systems, to be appeared in 2025（中科院1区Top，IF7.2）[[code]()]
+* Qi xingyu，Lihe，Li Linjie，**Wu Zhenyu***，[EmoAssist: Emotional Assistant for Visual Impairment Com](), International Joint Conference on Neural Networks（IJCNN 2025）, Rome, Italy，2025.7（CCF-C）[[code]()]
+
 #### 2024
 * Linjie Li，**Zhenyu Wu***，Jiaming Liu，Yang Ji，[TaE: Task-aware Expandable Representation for Long Tail Class Incremental Learning](https://arxiv.org/abs/2402.05797), 17th Asian Conference on Computer Vision（ACCV 2024）, Hanoi, Vietnam，2024.12（CCF-C）[[code]()]
 * Xiaona Sun，**Zhenyu Wu***，Zhiqiang Zhan，Yang Ji，[Contrastive Conditional Alignment based on Label Shift Calibration for Imbalanced Domain Adaptation](https://arxiv.org/abs/2412.20337v1), 27th International Conference on Pattern Recognition（ICPR 2024）, Kolkata, India，2024.12（CCF-C）[[code](https://github.com/ysxcj-hub/CCA-LSC)]
